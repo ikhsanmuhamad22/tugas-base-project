@@ -29,3 +29,4 @@ post /user/ngelaundry
 -pembayaran
 
 database nya sangat simple dan agak kacau but i will learn more
+sejauh saya coba gk ada yang error
